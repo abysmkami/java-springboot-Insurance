@@ -77,7 +77,7 @@
 				<plugin>
 					<groupId>org.apache.tomcat.maven</groupId>
 					<artifactId>tomcat7-maven-plugin</artifactId>
-					<version>${spring.version}</version>
+					<version>9.0</version>
 				</plugin>
 			</plugins>
 		</pluginManagement>
